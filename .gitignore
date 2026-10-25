@@ -1,0 +1,8 @@
+# залежності та службові файли
+node_modules/
+venv/
+__pycache__/
+.idea/
+.vscode/
+*.log
+.DS_Store
