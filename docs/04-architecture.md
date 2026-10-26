@@ -27,7 +27,7 @@
 ## 3. Структура коду
 
 ```
-project-furmanczuk/
+project-furmanchuk/
 ├─ config/            конфігурація застосунку, маршрути, параметри
 ├─ controllers/       обробники запитів (тонкі, без бізнес-логіки)
 ├─ models/            ActiveRecord-моделі та форми
